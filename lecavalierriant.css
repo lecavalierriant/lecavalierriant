@@ -19,4 +19,9 @@ body {
 	margin: 20px;
 }
 
+header {
+	position: sticky;
+	z-index: 99;
+}
+
 iframe {border: 0;}
