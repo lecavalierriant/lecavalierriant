@@ -45,3 +45,8 @@ input {
 }
 
 td {border-radius: 5px;}
+
+th {
+	padding: 15px;
+	border-radius: 5px;
+}
