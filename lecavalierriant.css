@@ -24,8 +24,11 @@ button {
 	border-radius: 5px;
 	box-shadow: 1px 1px 1px #000000;
 	cursor: pointer;
+	font-weight: bold;
 	margin: 2px;
 }
+
+div {border-radius: 5px;}
 
 header {
 	position: sticky;
@@ -42,7 +45,10 @@ input {
 	margin: 2px;
 }
 
-table {margin: auto;}
+table {
+	margin: auto;
+	border-radius: 10px;
+}
 
 td {border-radius: 5px;}
 
