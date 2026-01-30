@@ -34,8 +34,6 @@ header {
 
 iframe {border: 0;}
 
-table {margin: auto;}
-
 img {filter: drop-shadow(1px 1px 1px #000000);}
 
 input {
@@ -43,6 +41,8 @@ input {
 	border-radius: 5px;
 	margin: 2px;
 }
+
+table {margin: auto;}
 
 td {border-radius: 5px;}
 
