@@ -27,3 +27,5 @@ header {
 iframe {border: 0;}
 
 table {margin: auto;}
+
+img {filter: drop-shadow(1px 1px 1px #000000);}
