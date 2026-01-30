@@ -19,6 +19,14 @@ body {
 	margin: 20px;
 }
 
+button {
+	background: #303841;
+	border-radius: 5px;
+	box-shadow: 1px 1px 1px #000000;
+	cursor: pointer;
+	margin: 2px;
+}
+
 header {
 	position: sticky;
 	z-index: 99;
@@ -29,14 +37,6 @@ iframe {border: 0;}
 table {margin: auto;}
 
 img {filter: drop-shadow(1px 1px 1px #000000);}
-
-button {
-	background: #303841;
-	border-radius: 5px;
-	box-shadow: 1px 1px 1px #000000;
-	cursor: pointer;
-	margin: 2px;
-}
 
 input {
 	background-color: #303841;
