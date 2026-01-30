@@ -12,3 +12,4 @@ a {
 	transition: ease 0.2s;
 	cursor: pointer;
 }
+a:hover {color: #abcdef;}
