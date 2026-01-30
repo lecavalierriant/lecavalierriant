@@ -5,3 +5,10 @@
 	text-shadow: 1px 1px 1px #000000;
 	scrollbar-color: #9f9f9f #303841;
 }
+
+a {
+	font-style: italic;
+	text-decoration: none;
+	transition: ease 0.2s;
+	cursor: pointer;
+}
