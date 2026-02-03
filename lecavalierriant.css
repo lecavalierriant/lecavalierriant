@@ -1,4 +1,5 @@
 * {
+	border-radius: 5px;
 	color: #ffffff;
 	font-family: "garamond";
 	text-align: center;
@@ -21,14 +22,11 @@ body {
 
 button {
 	background: #303841;
-	border-radius: 5px;
 	box-shadow: 1px 1px 1px #000000;
 	cursor: pointer;
 	font-weight: bold;
 	margin: 2px;
 }
-
-div {border-radius: 5px;}
 
 header {
 	position: sticky;
@@ -41,7 +39,6 @@ img {filter: drop-shadow(1px 1px 1px #000000);}
 
 input {
 	background-color: #303841;
-	border-radius: 5px;
 	margin: 2px;
 }
 
@@ -50,9 +47,4 @@ table {
 	border-radius: 10px;
 }
 
-td {border-radius: 5px;}
-
-th {
-	padding: 15px;
-	border-radius: 5px;
-}
+th {padding: 15px;}
