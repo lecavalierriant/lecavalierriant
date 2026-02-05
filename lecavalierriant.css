@@ -22,7 +22,6 @@ body {
 
 button {
 	background: #303841;
-	box-shadow: 1px 1px 1px #000000;
 	cursor: pointer;
 	font-weight: bold;
 	margin: 2px;
@@ -43,8 +42,9 @@ input {
 }
 
 table {
-	margin: auto;
+	border: 2px #ffffff solid;
 	border-radius: 10px;
+	margin: auto;
 }
 
 th {padding: 15px;}
