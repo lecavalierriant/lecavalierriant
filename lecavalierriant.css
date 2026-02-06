@@ -6,6 +6,7 @@
 	text-shadow: 1px 1px 1px #000000;
 	scrollbar-color: #9f9f9f #303841;
 }
+.vide *:hover {cursor: not-allowed;}
 
 a {
 	font-style: italic;
@@ -32,7 +33,10 @@ header {
 	z-index: 99;
 }
 
-iframe {border: 0;}
+iframe {
+	border: 0;
+	width: 100%;
+}
 
 img {filter: drop-shadow(1px 1px 1px #000000);}
 
@@ -48,3 +52,6 @@ table {
 }
 
 th {padding: 15px;}
+
+.vide {background-color: grey;}
+.vide:hover,
