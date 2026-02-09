@@ -19,6 +19,7 @@ a:hover {color: #abcdef;}
 body {
 	background-color: #303841;
 	margin: 20px;
+	font-size: 200%;
 }
 
 button {
@@ -54,4 +55,16 @@ table {
 th {padding: 15px;}
 
 .vide {background-color: grey;}
-.vide:hover,
+.vide:hover {cursor: not-allowed;}
+
+@media (min-width: 910px) {
+
+body {font-size: 100%;}
+
+}
+
+@media (min-width: 1350px) {
+
+body {font-size: 100%;}
+
+}
