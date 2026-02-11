@@ -37,6 +37,7 @@ header {
 iframe {
 	border: 0;
 	width: 100%;
+	display: none;
 }
 
 img {filter: drop-shadow(1px 1px 1px #000000);}
@@ -61,10 +62,18 @@ th {padding: 15px;}
 
 body {font-size: 100%;}
 
+header {display: none;}
+
+iframe {display: block;}
+
 }
 
 @media (min-width: 1350px) {
 
 body {font-size: 100%;}
+
+header {display: none;}
+
+iframe {display: block;}
 
 }
