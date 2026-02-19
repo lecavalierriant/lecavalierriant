@@ -47,6 +47,10 @@ input {
 	margin: 2px;
 }
 
+sub {color: inherit;}
+
+sup {color: inherit;}
+
 table {
 	border: 2px #ffffff solid;
 	border-radius: 10px;
