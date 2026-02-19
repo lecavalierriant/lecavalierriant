@@ -62,7 +62,7 @@ th {padding: 15px;}
 .vide {background-color: grey;}
 .vide:hover {cursor: not-allowed;}
 
-@media (min-width: 910px) {
+@media (min-width: 1000px) {
 
 body {font-size: 100%;}
 
