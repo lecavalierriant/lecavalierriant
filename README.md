@@ -2,6 +2,7 @@
 
 Mes projets :
 - Caractères : https://lecavalierriant.github.io/caracteres/
+- Divinarium : https://lecavalierriant.github.io/divinarium/
 - Héraldix : https://lecavalierriant.github.io/heraldix/
 - Jeux : https://lecavalierriant.github.io/jeux/
 - Scriptorium : https://lecavalierriant.github.io/scriptorium/
