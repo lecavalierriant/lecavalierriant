@@ -5,4 +5,5 @@ Mes projets :
 - Divinarium : https://lecavalierriant.github.io/divinarium/
 - Héraldix : https://lecavalierriant.github.io/heraldix/
 - Jeux : https://lecavalierriant.github.io/jeux/
+- Monogrammata : https://lecavalierriant.github.io/monogrammata/
 - Scriptorium : https://lecavalierriant.github.io/scriptorium/
