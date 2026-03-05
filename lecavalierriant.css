@@ -1,5 +1,5 @@
 * {
-	border-radius: 5px;
+	border-radius: 15px;
 	color: #ffffff;
 	font-family: "garamond-local", "garamond";
 	text-align: center;
@@ -54,8 +54,8 @@ sub {color: inherit;}
 sup {color: inherit;}
 
 table {
-	border: 2px #ffffff solid;
-	border-radius: 10px;
+	border: 6px #ffffff solid;
+	border-radius: 30px;
 	margin: auto;
 }
 
@@ -87,11 +87,18 @@ th {padding: 15px;}
 
 @media (min-width: 1000px) {
 
+* {border-radius: 5px;}
+
 body {font-size: 100%;}
 
 header {display: none;}
 
 iframe {display: block;}
+
+table {
+	border: 2px #ffffff solid;
+	border-radius: 10px;
+}
 
 }
 
