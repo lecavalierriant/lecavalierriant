@@ -16,6 +16,8 @@ a {
 }
 a:hover {color: #abcdef;}
 
+b {color: inherit;}
+
 body {
 	background-color: #303841;
 	margin: 20px;
