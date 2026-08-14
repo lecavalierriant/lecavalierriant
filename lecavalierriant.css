@@ -31,6 +31,12 @@ button {
 	margin: 2px;
 }
 
+.navigation div {
+	border: 3px #ffffff solid;
+	border-radius: 15px;
+	padding: 15px;
+}
+
 header {
 	position: sticky;
 	z-index: 99;
@@ -50,6 +56,8 @@ input {
 	background-color: #303841;
 	margin: 2px;
 }
+
+span {color: inherit;}
 
 sub {color: inherit;}
 
