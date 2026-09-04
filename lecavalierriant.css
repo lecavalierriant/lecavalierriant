@@ -23,6 +23,12 @@ body {
 	margin: 20px;
 	font-size: 200%;
 }
+.navigation {
+	border: 3px #ffffff solid;
+	border-radius: 15px;
+	padding: 15px;
+	display: inline-flex;
+}
 
 button {
 	background: #303841;
@@ -31,11 +37,7 @@ button {
 	margin: 2px;
 }
 
-.navigation div {
-	border: 3px #ffffff solid;
-	border-radius: 15px;
-	padding: 15px;
-}
+.navigation h2 {margin: 0 10px 0 10px;}
 
 header {
 	position: sticky;
@@ -51,6 +53,7 @@ iframe {
 }
 
 img {filter: drop-shadow(1px 1px 1px #000000);}
+.logo {width: 100px;}
 
 input {
 	background-color: #303841;
@@ -93,6 +96,15 @@ th {padding: 15px;}
 	src: url("garamond-gras.ttf");
 	font-weight: bold;
 	font-style: normal;
+}
+
+@media (min-height: 200px) {
+
+.navigation {
+	columns: 1;
+	display: block;
+}
+
 }
 
 @media (min-width: 1000px) {
