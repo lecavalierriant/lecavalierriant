@@ -25,9 +25,10 @@ body {
 }
 .navigation {
 	border: 3px #ffffff solid;
-	padding: 15px;
+	padding: 10px;
 	display: inline-flex;
 	margin: 0;
+	align-items: center;
 }
 
 button {
@@ -53,7 +54,7 @@ iframe {
 }
 
 img {filter: drop-shadow(1px 1px 1px #000000);}
-.logo {width: 100px;}
+.logo {width: 80px;}
 
 input {
 	background-color: #303841;
@@ -100,7 +101,7 @@ th {padding: 15px;}
 
 @media (min-height: 200px) {
 
-.navigation {
+body.navigation {
 	columns: 1;
 	display: block;
 }
