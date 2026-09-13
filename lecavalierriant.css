@@ -61,6 +61,14 @@ input {
 	margin: 2px;
 }
 
+optgroup {text-align: left;}
+option {text-align: left;}
+
+select {
+	background: #303841;
+	border: 1px #ffffff solid;
+}
+
 span {color: inherit;}
 
 sub {color: inherit;}
