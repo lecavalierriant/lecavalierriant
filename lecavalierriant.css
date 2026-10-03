@@ -121,6 +121,7 @@ body.navigation {
 * {border-radius: 5px;}
 
 body {font-size: 100%;}
+.navigation {background-color: transparent;}
 
 header {display: none;}
 
