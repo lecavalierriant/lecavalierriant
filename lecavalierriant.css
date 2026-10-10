@@ -7,6 +7,7 @@
 	scrollbar-color: #9f9f9f #303841;
 }
 .vide *:hover {cursor: not-allowed;}
+*[lang="ar"], *[lang="ar"] * {font-family: "amiri-local", "amiri";}
 
 a {
 	font-style: italic;
