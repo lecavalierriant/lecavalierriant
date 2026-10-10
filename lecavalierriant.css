@@ -89,23 +89,28 @@ th {padding: 15px;}
 
 @font-face {
 	font-family: "garamond-local";
-	src: url("garamond.ttf");
 	font-weight: normal;
 	font-style: normal;
+	src: url("polices/garamond.ttf");
 }
 
 @font-face {
 	font-family: "garamond-local";
-	src: url("garamond-italique.ttf");
 	font-weight: normal;
+	src: url("polices/garamond-italique.ttf");
 	font-style: italic;
 }
 
 @font-face {
 	font-family: "garamond-local";
-	src: url("garamond-gras.ttf");
+	src: url("polices/garamond-gras.ttf");
 	font-weight: bold;
 	font-style: normal;
+}
+
+@font-face {
+	font-family: "amiri-local";
+	src: url("polices/amiri.ttf");
 }
 
 @media (min-height: 200px) {
