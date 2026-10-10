@@ -1,13 +1,13 @@
 * {
 	border-radius: 15px;
 	color: #fff;
-	font-family: "garamond-local", "garamond";
+	font-family: "garamond-local";
 	text-align: center;
 	text-shadow: 1px 1px 1px #000;
 	scrollbar-color: #9f9f9f #303841;
 }
 .vide *:hover {cursor: not-allowed;}
-*[lang="ar"], *[lang="ar"] * {font-family: "amiri-local", "amiri";}
+*[lang="ar"], *[lang="ar"] * {font-family: "amiri-local";}
 
 a {
 	font-style: italic;
