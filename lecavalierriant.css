@@ -88,10 +88,8 @@ th {padding: 15px;}
 .vide:hover {cursor: not-allowed;}
 
 @font-face {
-	font-family: "garamond-local";
-	font-weight: normal;
-	font-style: normal;
-	src: url("polices/garamond.ttf");
+	font-family: "garamond";
+	src: url("../polygramme/externes/garamond.ttf");
 }
 
 @font-face {
