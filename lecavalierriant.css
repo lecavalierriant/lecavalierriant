@@ -95,7 +95,6 @@ th {padding: 15px;}
 }
 
 @font-face {
-	font-weight: normal;
 	src: url("polices/garamond-italique.ttf");
 	font-family: "garamond";
 	font-style: italic;
