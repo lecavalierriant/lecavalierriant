@@ -1,13 +1,13 @@
 * {
 	border-radius: 15px;
 	color: #fff;
-	font-family: "garamond-local";
+	font-family: "garamond";
 	text-align: center;
 	text-shadow: 1px 1px 1px #000;
 	scrollbar-color: #9f9f9f #303841;
 }
 .vide *:hover {cursor: not-allowed;}
-*[lang="ar"], *[lang="ar"] * {font-family: "amiri-local";}
+*[lang="ar"], *[lang="ar"] * {font-family: "amiri";}
 
 a {
 	font-style: italic;
@@ -109,8 +109,8 @@ th {padding: 15px;}
 }
 
 @font-face {
-	font-family: "amiri-local";
-	src: url("polices/amiri.ttf");
+	font-family: "amiri";
+	src: url("../polygramme/externes/amiri.ttf");
 }
 
 @media (min-height: 200px) {
