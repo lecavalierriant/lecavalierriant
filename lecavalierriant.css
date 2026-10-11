@@ -95,8 +95,8 @@ th {padding: 15px;}
 }
 
 @font-face {
-	src: url("polices/garamond-italique.ttf");
 	font-family: "garamond";
+	src: url("../polygramme/externes/garamond-italique.ttf");
 	font-style: italic;
 }
 
