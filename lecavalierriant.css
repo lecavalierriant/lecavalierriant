@@ -102,8 +102,8 @@ th {padding: 15px;}
 }
 
 @font-face {
-	font-family: "garamond-local";
-	src: url("polices/garamond-gras.ttf");
+	font-family: "garamond";
+	src: url("../polygramme/externes/garamond-gras.ttf");
 	font-weight: bold;
 }
 
