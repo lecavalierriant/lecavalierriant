@@ -29,7 +29,7 @@ body {
 	border: 6px #fff solid;
 	padding: 10px;
 	display: inline-flex;
-	margin: 0;
+	margin: 50px;
 	align-items: center;
 }
 
@@ -124,7 +124,9 @@ body.navigation {
 
 body {font-size: 100%;}
 .navigation {
+	background-color: transparent;
 	border: 3px #fff solid;
+	margin: 0;
 }
 
 header {display: none;}
