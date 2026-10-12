@@ -8,6 +8,7 @@
 }
 .vide *:hover {cursor: not-allowed;}
 *[lang="ar"], *[lang="ar"] * {font-family: "amiri";}
+.navigation > * {margin: 75px auto 75px auto;}
 
 a {
 	font-style: italic;
@@ -38,8 +39,6 @@ button {
 	font-weight: bold;
 	margin: 2px;
 }
-
-.navigation h2 {margin: 0 10px 0 10px;}
 
 header {
 	position: sticky;
@@ -121,6 +120,7 @@ body.navigation {
 @media (min-width: 1000px) {
 
 * {border-radius: 5px;}
+.navigation > * {margin: 0 10px 0 10px;}
 
 body {font-size: 100%;}
 .navigation {background-color: transparent;}
