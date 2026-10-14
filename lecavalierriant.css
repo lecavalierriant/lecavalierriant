@@ -110,10 +110,7 @@ th {padding: 15px;}
 
 @media (min-height: 200px) {
 
-body.navigation {
-	columns: 1;
-	display: block;
-}
+.navigation {display: block;}
 
 }
 
