@@ -120,6 +120,12 @@ th {padding: 15px;}
 }
 @font-face {
 	font-family: "garamond";
+	src: url("../polygramme/externes/garamond-gras-italique.ttf");
+	font-weight: bold;
+	font-style: italic;
+}
+@font-face {
+	font-family: "garamond";
 	src: url("../polygramme/externes/garamond-gras.ttf");
 	font-weight: bold;
 }
