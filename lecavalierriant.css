@@ -161,6 +161,13 @@ th {padding: 15px;}
 	src: url("../polygramme/externes/p39.ttf");
 }
 
+.mandoa,
+.mandoa * {font-family: "mandoa";}
+@font-face {
+	font-family: "mandoa";
+	src: url("../polygramme/star-wars/mandoa.ttf");
+}
+
 @media (min-height: 200px) {
 
 .navigation {display: block;}
