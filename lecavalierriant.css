@@ -72,6 +72,8 @@ input {
 optgroup {text-align: left;}
 option {text-align: left;}
 
+q {font-style: italic;}
+
 select {
 	background: #303841;
 	border: 1px #fff solid;
