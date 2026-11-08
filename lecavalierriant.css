@@ -175,6 +175,18 @@ th {padding: 15px;}
 	src: url("../polygramme/minecraft/standard-galactic-alphabet.ttf");
 }
 
+.triod-postnaja,
+.triod-postnaja * {font-family: "triod postnaja";}
+.triod-postnaja:first-letter,
+.triod-postnaja *:first-letter {
+	color: #a00;
+	font-size: 2em;
+}
+@font-face {
+	font-family: "triod postnaja";
+	src: url("../polygramme/externes/triod-postnaja.ttf");
+}
+
 @media (min-height: 200px) {
 
 .navigation {display: block;}
