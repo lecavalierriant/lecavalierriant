@@ -102,6 +102,13 @@ th {padding: 15px;}
 	src: url("../polygramme/externes/amiri.ttf");
 }
 
+.aurebesh,
+.aurebesh * {font-family: "aurebesh";}
+@font-face {
+	font-family: "aurebesh";
+	src: url("../polygramme/star-wars/aurebesh.ttf");
+}
+
 @font-face {
 	font-family: "garamond";
 	src: url("../polygramme/externes/garamond.ttf");
