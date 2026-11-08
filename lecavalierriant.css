@@ -142,7 +142,11 @@ th {padding: 15px;}
 	font-weight: bold;
 }
 
+.karolvs,
+.karolvs * {font-family: karolvs;}
 @font-face {
+	font-family: "karolvs";
+	src: url("../polygramme/karolvs.ttf");
 }
 
 @media (min-height: 200px) {
