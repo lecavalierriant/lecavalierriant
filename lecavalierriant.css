@@ -168,6 +168,13 @@ th {padding: 15px;}
 	src: url("../polygramme/star-wars/mandoa.ttf");
 }
 
+.standard-galactic-alphabet,
+.standard-galactic-alphabet * {font-family: "standard-galactic-alphabet";}
+@font-face {
+	font-family: "standard-galactic-alphabet";
+	src: url("../polygramme/minecraft/standard-galactic-alphabet.ttf");
+}
+
 @media (min-height: 200px) {
 
 .navigation {display: block;}
