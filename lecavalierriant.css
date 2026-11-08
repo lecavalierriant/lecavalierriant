@@ -98,6 +98,11 @@ th {padding: 15px;}
 
 *[lang="ar"] {font-family: "amiri";}
 @font-face {
+	font-family: "amiri";
+	src: url("../polygramme/externes/amiri.ttf");
+}
+
+@font-face {
 	font-family: "garamond";
 	src: url("../polygramme/externes/garamond.ttf");
 }
@@ -115,8 +120,6 @@ th {padding: 15px;}
 }
 
 @font-face {
-	font-family: "amiri";
-	src: url("../polygramme/externes/amiri.ttf");
 }
 
 @media (min-height: 200px) {
