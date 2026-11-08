@@ -149,6 +149,18 @@ th {padding: 15px;}
 	src: url("../polygramme/karolvs.ttf");
 }
 
+.p39,
+.p39 * {font-family: "p39";}
+.p39:first-letter,
+.p39 *:first-letter {
+	color: #a00;
+	font-size: 2em;
+}
+@font-face {
+	font-family: "p39";
+	src: url("../polygramme/externes/p39.ttf");
+}
+
 @media (min-height: 200px) {
 
 .navigation {display: block;}
