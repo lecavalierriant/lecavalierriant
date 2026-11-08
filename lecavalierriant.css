@@ -109,6 +109,18 @@ th {padding: 15px;}
 	src: url("../polygramme/star-wars/aurebesh.ttf");
 }
 
+.deutsche-uncialis,
+.deutsche-uncialis * {font-family: "deutsche uncialis";}
+.deutsche-uncialis:first-letter,
+.deutsche-uncialis *:first-letter {
+	color: #a00;
+	font-size: 2em;
+}
+@font-face {
+	font-family: "deutsche uncialis";
+	src: url("../polygramme/externes/deutsche-uncialis.ttf");
+}
+
 @font-face {
 	font-family: "garamond";
 	src: url("../polygramme/externes/garamond.ttf");
