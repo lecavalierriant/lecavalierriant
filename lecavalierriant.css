@@ -187,11 +187,7 @@ th {padding: 15px;}
 	src: url("../polygramme/externes/triod-postnaja.ttf");
 }
 
-@media (min-height: 200px) {
-
-.navigation {display: block;}
-
-}
+@media (min-height: 200px) {.navigation {display: block;}}
 
 @media (min-width: 1000px) {
 
