@@ -8,6 +8,15 @@
 }
 .vide *:hover {cursor: not-allowed;}
 .navigation > * {margin: 75px auto 75px auto;}
+.parchemin {
+	background-image: url("parchemin.jpeg");
+	background-size: auto 100%;
+	background-position: top center;
+}
+.parchemin * {
+	color: #000;
+	text-shadow: none;
+}
 
 a {
 	font-style: italic;
@@ -125,6 +134,7 @@ body {font-size: 100%;}
 	border: 3px #fff solid;
 	margin: 0;
 }
+.parchemin {background-size: 100% auto;}
 
 header {display: none;}
 
