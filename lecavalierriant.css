@@ -23,6 +23,7 @@ a {
 	text-decoration: none;
 	transition: ease 0.2s;
 	cursor: pointer;
+	color: inherit;
 }
 a:hover {color: #abcdef;}
 
@@ -72,7 +73,10 @@ input {
 optgroup {text-align: left;}
 option {text-align: left;}
 
-q {font-style: italic;}
+q {
+	font-style: italic;
+	color: inherit;
+}
 
 select {
 	background: #303841;
@@ -127,18 +131,18 @@ th {padding: 15px;}
 }
 @font-face {
 	font-family: "garamond";
-	src: url("../polygramme/externes/garamond-italique.ttf");
+	src: url("../polygramme/externes/garamond-i.ttf");
 	font-style: italic;
 }
 @font-face {
 	font-family: "garamond";
-	src: url("../polygramme/externes/garamond-gras-italique.ttf");
+	src: url("../polygramme/externes/garamond-bi.ttf");
 	font-weight: bold;
 	font-style: italic;
 }
 @font-face {
 	font-family: "garamond";
-	src: url("../polygramme/externes/garamond-gras.ttf");
+	src: url("../polygramme/externes/garamond-b.ttf");
 	font-weight: bold;
 }
 
